@@ -92,6 +92,18 @@ INSERT INTO caja_table(id_caja, id_almacen, contenido_caja, valor_caja)
     ("2109082",5, 'Caja de lapices', 1600),
     ("2109083",5, 'Caja de focos', 1100),
     ("2109084",5, 'Caja de ropa', 100);
+INSERT INTO caja_table(id_caja, id_almacen, contenido_caja, valor_caja)
+VALUES
+("2109085",5, 'Caja de ropa', 100),
+("2109086",5, 'Caja de ropa', 100),
+("2109087",5, 'Caja de ropa', 100),
+("2109088",5, 'Caja de ropa', 100),
+("2109089",5, 'Caja de ropa', 100),
+("2109090",5, 'Caja de ropa', 100),
+("2109091",5, 'Caja de ropa', 100),
+("2109092",5, 'Caja de ropa', 100),
+("2109093",5, 'Caja de ropa', 100),
+("2109094",5, 'Caja de ropa', 100);
 
 
 
